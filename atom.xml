@@ -36,7 +36,7 @@
 &lt;h3 id="应对"&gt;应对&lt;/h3&gt;
 &lt;p&gt;最简单的方式，就是保证随时不止一个翻墙的方式可用。我们做技术的都知道怎么来保证高可用性：&lt;strong&gt;异地多活，多地多中心&lt;/strong&gt;。这样全部同时挂掉的概率就非常小了。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src="/static/images/2018/201806_05_gfw.png" alt="异地多活，多个中心" /&gt;&lt;figcaption&gt;异地多活，多个中心&lt;/figcaption&gt;
+&lt;img src="/static/images/2018/201806_06_gfw.png" alt="异地多活，多个中心" /&gt;&lt;figcaption&gt;异地多活，多个中心&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h3 id="尾"&gt;尾&lt;/h3&gt;
 &lt;p&gt;最后说一句，真是个操蛋的地方，普通的信息自由已经如此的艰难了。&lt;/p&gt;
