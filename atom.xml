@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood2.karottc.com/</id>
   <title>杂思未济</title>
-  <updated>2018-06-18T13:29:17Z</updated>
+  <updated>2018-06-20T14:00:17Z</updated>
   <link rel="alternate" href="http://mood2.karottc.com/"/>
   <link rel="self" href="http://mood2.karottc.com/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood2.karottc.com</uri>
   </author>
+  <entry>
+    <id>tag:mood2.karottc.com,2018-06-20:/posts/2018-06-20-fuck-gfw/</id>
+    <title type="html">操蛋的GFW</title>
+    <published>2018-06-20T13:50:17Z</published>
+    <updated>2018-06-20T14:00:17Z</updated>
+    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-06-20-fuck-gfw/"/>
+    <content type="html">&lt;h3 id="序"&gt;序&lt;/h3&gt;
+&lt;p&gt;今天在公司上课，17：30左右打开网页变慢了，甚至根本打不开，公司Wifi，手机联通4G都试过了，还是不行，刚开始以为是我的DNS挂了，后面才发现是ss的问题，因为公司的Wifi是默认翻墙的，但是我的手机是一天24小时连着VPN的，基本所有流量都会走shadowsocks这App。当时在上课，也没太注意这事。&lt;/p&gt;
+&lt;p&gt;晚上上课刷到一个消息，说是今天下午开始了新一轮的封锁：&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201806_04_gfw.png" alt="新一轮封锁" /&gt;&lt;figcaption&gt;新一轮封锁&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id="证实"&gt;证实&lt;/h3&gt;
+&lt;p&gt;后面下班回到家，发现确实不能上网了，check了一下服务器的各种信息，本地也能ping通，所以可以确定两点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IP是没有问题（没有被封）；&lt;/li&gt;
+&lt;li&gt;网络也没有问题；&lt;/li&gt;
+&lt;li&gt;机器防火墙应该也没有问题（因为我没有改过，但是机器防火墙的管理页面，要翻墙才能看的，所以现在没法去check）；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;后面登录到机器上去检查各项配置和Log，发现下面的信息：&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201806_05_gfw.png" alt="错误Log" /&gt;&lt;figcaption&gt;错误Log&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;猜测是防火墙在包里面加了东西导致服务器解密失败，后面验证了一下，连接之后大量的包根本没有到服务器，然后验证了一下其他地区的ss机器，发现这个到不了应该是端口被封了，我现在用的是 &lt;strong&gt;80&lt;/strong&gt; 端口，所以我马上换了一个端口，再试，恢复了。目前的情况是和前面的消息能对应上的，下午开始防火墙随机丢包和端口阻断。&lt;/p&gt;
+&lt;h3 id="应对"&gt;应对&lt;/h3&gt;
+&lt;p&gt;最简单的方式，就是保证随时不止一个翻墙的方式可用。我们做技术的都知道怎么来保证高可用性：&lt;strong&gt;异地多活，多地多中心&lt;/strong&gt;。这样全部同时挂掉的概率就非常小了。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201806_05_gfw.png" alt="异地多活，多个中心" /&gt;&lt;figcaption&gt;异地多活，多个中心&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 id="尾"&gt;尾&lt;/h3&gt;
+&lt;p&gt;最后说一句，真是个操蛋的地方，普通的信息自由已经如此的艰难了。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood2.karottc.com,2018-06-18:/posts/2018-06-18-dragon-boat-festival/</id>
     <title type="html">端午节</title>
