@@ -18,7 +18,7 @@
     <content type="html">&lt;p&gt;今天继续做题，有点丧失信心了。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://leetcode-cn.com/problems/longest-palindromic-substring/description/"&gt;LeetCode第五题&lt;/a&gt;，今天在中级算法的练习中碰到了，前几天刚说&lt;a href="http://mood2.karottc.com/posts/2018-06-18-leetcode/"&gt;刷完了初级算法，要开始刷中级算法的题目了&lt;/a&gt;。做了两天，今天就被打击了，打击的原因并不是因为没有做出这道题，而是，&lt;strong&gt;一个多月之前我做出了这道题，现在却没有做出来&lt;/strong&gt;。&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src="static/images/2018/201806_07_leetcode05.png" alt="LeetCode第五题·提交记录" /&gt;&lt;figcaption&gt;LeetCode第五题·提交记录&lt;/figcaption&gt;
+&lt;img src="/static/images/2018/201806_07_leetcode05.png" alt="LeetCode第五题·提交记录" /&gt;&lt;figcaption&gt;LeetCode第五题·提交记录&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;看到这个提交记录之后我就回想起来了，当时是完全靠自己想出来的，因为提交了三次：&lt;/p&gt;
 &lt;ul&gt;
