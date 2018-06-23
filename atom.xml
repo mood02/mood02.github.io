@@ -63,9 +63,14 @@
 &lt;blockquote&gt;
 &lt;p&gt;Given a binary tree, return the inorder traversal of its nodes’ values.&lt;/p&gt;
 &lt;p&gt;Example:&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_12_binary_tree.png" /&gt;
-&lt;/figure&gt;
+&lt;div class="sourceCode"&gt;&lt;pre class="sourceCode cpp"&gt;&lt;code class="sourceCode cpp"&gt;Input: [&lt;span class="dv"&gt;1&lt;/span&gt;,null,&lt;span class="dv"&gt;2&lt;/span&gt;,&lt;span class="dv"&gt;3&lt;/span&gt;]
+  &lt;span class="dv"&gt;1&lt;/span&gt;
+   \
+    &lt;span class="dv"&gt;2&lt;/span&gt;
+   /
+  &lt;span class="dv"&gt;3&lt;/span&gt;
+
+Output: [&lt;span class="dv"&gt;1&lt;/span&gt;,&lt;span class="dv"&gt;3&lt;/span&gt;,&lt;span class="dv"&gt;2&lt;/span&gt;]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Follow up: Recursive solution is trivial, could you do it iteratively?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id="思路"&gt;思路&lt;/h3&gt;
