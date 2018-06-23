@@ -49,9 +49,14 @@
 &lt;blockquote&gt;
 &lt;p&gt;给定一个二叉树，返回它的中序遍历。&lt;/p&gt;
 &lt;p&gt;示例:&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_11_binary_tree.png" /&gt;
-&lt;/figure&gt;
+&lt;div class="sourceCode"&gt;&lt;pre class="sourceCode cpp"&gt;&lt;code class="sourceCode cpp"&gt;输入: [&lt;span class="dv"&gt;1&lt;/span&gt;,null,&lt;span class="dv"&gt;2&lt;/span&gt;,&lt;span class="dv"&gt;3&lt;/span&gt;]
+  &lt;span class="dv"&gt;1&lt;/span&gt;
+   \
+    &lt;span class="dv"&gt;2&lt;/span&gt;
+   /
+  &lt;span class="dv"&gt;3&lt;/span&gt;
+
+输出: [&lt;span class="dv"&gt;1&lt;/span&gt;,&lt;span class="dv"&gt;3&lt;/span&gt;,&lt;span class="dv"&gt;2&lt;/span&gt;]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;进阶: 递归算法很简单，你可以通过迭代算法完成吗？&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;英文描述如下：&lt;/p&gt;
