@@ -2,13 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood2.karottc.com/</id>
   <title>杂思未济</title>
-  <updated>2018-06-22T16:30:17Z</updated>
+  <updated>2018-06-24T02:30:17Z</updated>
   <link rel="alternate" href="http://mood2.karottc.com/"/>
   <link rel="self" href="http://mood2.karottc.com/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood2.karottc.com</uri>
   </author>
+  <entry>
+    <id>tag:mood2.karottc.com,2018-06-24:/posts/2018-06-24-zoho-notebook/</id>
+    <title type="html">Evernote替代品——ZOHO Notebook</title>
+    <published>2018-06-24T02:10:17Z</published>
+    <updated>2018-06-24T02:30:17Z</updated>
+    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-06-24-zoho-notebook/"/>
+    <content type="html">&lt;p&gt;今天在群里听人推荐了一个Evernote的替代品，叫 &lt;a href="https://notebook.zoho.com/app/index.html#/notebooks"&gt;ZOHO Notebook&lt;/a&gt;。由于苦Evernote久已，所以马上就去注册试用了一下，顺便了解了一下 ZOHO 这个公司，发现这是一个底蕴深厚的大公司，值得信赖。&lt;/p&gt;
+&lt;p&gt;这个软件是在2016年Evernote 提升收费标准的时候，上线了第一版，宣传语就是要替代Evernote。所以网站直接提供了一个很方便的从evernote自动迁移数据到ZOHO的能力：&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201806_08_notebook.png" alt="迁移Evernote数据" /&gt;&lt;figcaption&gt;迁移Evernote数据&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;我差不多5个G数据，迁移了10个小时左右，迁移完成之后会发邮件通知。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201806_09_notebook.png" alt="迁移完成" /&gt;&lt;figcaption&gt;迁移完成&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;笔记全部变成了彩色了，一眼看上去还行，但是点进去看具体的页面，就感觉挺丑的，五颜六色的看上去也有一种不正式的感觉，并不是很适合做知识管理。&lt;/p&gt;
+&lt;p&gt;发展了两年的ZOHO Notebook 还有几点不足：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;搜索还需要优化，比较少的时候搜索很精准，但是我把全部笔记导入进去之后，就搜索不准确了，想要的搜不出来；&lt;/li&gt;
+&lt;li&gt;到现在为止也没有windows客户端；&lt;/li&gt;
+&lt;li&gt;多级嵌套，Evernote里面这个功能叫笔记本组，只能两级，但是ZOHO Notebook，只能一级，还差的老远，最好的是想的能够任意层级；&lt;/li&gt;
+&lt;li&gt;网页剪切、收藏还需要普及。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前看和Evernote还是不能比，所以这次又是一次失败的尝试。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood2.karottc.com,2018-06-22:/posts/2018-06-23-internet-history/</id>
     <title type="html">互联网发展史</title>
