@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood2.karottc.com/</id>
   <title>杂思未济</title>
-  <updated>2018-06-24T02:30:17Z</updated>
+  <updated>2018-07-04T14:08:17Z</updated>
   <link rel="alternate" href="http://mood2.karottc.com/"/>
   <link rel="self" href="http://mood2.karottc.com/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood2.karottc.com</uri>
   </author>
+  <entry>
+    <id>tag:mood2.karottc.com,2018-07-04:/posts/2018-07-04-code-life/</id>
+    <title type="html">关于编程职业生涯的焦虑</title>
+    <published>2018-07-04T14:08:17Z</published>
+    <updated>2018-07-04T14:08:17Z</updated>
+    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-07-04-code-life/"/>
+    <content type="html">&lt;h2 id="序"&gt;序&lt;/h2&gt;
+&lt;p&gt;今天在&lt;a href="https://coolshell.cn/"&gt;左耳朵耗子&lt;/a&gt;的&lt;a href="https://time.geekbang.org/column/intro/48"&gt;极客时间专栏&lt;/a&gt;看到有个人在文章下面的评论和他的回复，有些感触，遂写几笔。&lt;/p&gt;
+&lt;h2 id="编程的职业生涯"&gt;编程的职业生涯&lt;/h2&gt;
+&lt;p&gt;耗子哥在这个专栏里面更新了很多技术、职业发展、程序员如何提高技术、怎么对待自己的技术生涯的文章，最近在更新的系列是 &lt;strong&gt;程序员的练级攻略&lt;/strong&gt;，从基础入门，到成长为高手要学习的知识，有人在其中一篇文章的问答如下：&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201807_01_code_life.png" alt="问答" /&gt;&lt;figcaption&gt;问答&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;在技术这条路上，要成长为高手和专家，需要花大量的时间，等变成高手或者专家的时候，或许已经35岁了，由于一直流传程序员是吃青春饭的说法，35岁年龄大了就找不到工作了，所以提出这个问题，觉得学完的时候就是失业的时候。&lt;/p&gt;
+&lt;p&gt;作者的回答相当于给我吃了一个定心丸，等你学有所成，便不会担心失业。我这几年在技术的道路一直不坚定，「程序员是吃青春饭的」这句话一直像梦魇一直萦绕在我身边，让我一直在思考年龄大了应该做什么、怎么办，由于觉得10年之后技术无用，所以也就无法沉淀的学习技术。所以，不坚定并不是我对技术没有热情，而是这个热情败给了现实，毕竟我不是一个人，能赚钱很重要。这个回答也恰好解惑，坚定的提高技术，不需要去担心以后会失业的问题。&lt;/p&gt;
+&lt;h2 id="尾"&gt;尾&lt;/h2&gt;
+&lt;p&gt;今天电话面试了一个公司——【比特大陆】，全程聊项目，没有问任何基础和算法相关的知识，面的结果不怎么好，由于最近都是在看算法和复习基础知识，这部分疏忽了，这也说明，就算是自己亲手做过的项目，如果不提前准备，临场也会是一脸懵逼。&lt;/p&gt;
+&lt;p&gt;Go on ~&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood2.karottc.com,2018-06-24:/posts/2018-06-24-zoho-notebook/</id>
     <title type="html">Evernote替代品——ZOHO Notebook</title>
