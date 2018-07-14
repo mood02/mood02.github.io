@@ -2,13 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood2.karottc.com/</id>
   <title>杂思未济</title>
-  <updated>2018-07-04T14:08:17Z</updated>
+  <updated>2018-07-14T11:10:17Z</updated>
   <link rel="alternate" href="http://mood2.karottc.com/"/>
   <link rel="self" href="http://mood2.karottc.com/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood2.karottc.com</uri>
   </author>
+  <entry>
+    <id>tag:mood2.karottc.com,2018-07-14:/posts/2018-07-14-leetcode/</id>
+    <title type="html">完成LeetCode第二阶段练习</title>
+    <published>2018-07-14T11:10:17Z</published>
+    <updated>2018-07-14T11:10:17Z</updated>
+    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-07-14-leetcode/"/>
+    <content type="html">&lt;p&gt;今天做完了&lt;a href="https://leetcode-cn.com/"&gt;LeetCode中国&lt;/a&gt;上面的中级算法的所有题目，从完成&lt;a href="http://mood2.karottc.com/posts/2018-06-18-leetcode/"&gt;第一个阶段的练习&lt;/a&gt;到现在，不到一个月的时间，这个速度让我有点诧异。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201807_02_leetcode.png" alt="LeetCode阶段练习" /&gt;&lt;figcaption&gt;LeetCode阶段练习&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;因为初级练习做了接近两个，而这个中级练习做了不到一个月，现在看有点难以置信，而且目前感觉也有点怪怪的。做完第一阶段的练习时，感觉算法能力提升，可以解决很多问题，信心满满。可是做完第二个阶段的中级练习，感觉自己不会做算法题了，脑袋一片空白，觉得自己什么也不会了，心情有点焦虑，难道自己得了失忆症，但是看到具体的题目时，又能很快的有思路和解法办法——这明显是得益于第二阶段的练习。这种感觉还要再继续琢磨一下。😮😮😮😮😮😮😮&lt;/p&gt;
+&lt;p&gt;做完这个两个练习，加上平时偶尔和同学讨论去做的几道题，目前正好完成了 &lt;strong&gt;100道题&lt;/strong&gt;。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201807_03_leetcode.png" alt="LeetCode总进度" /&gt;&lt;figcaption&gt;LeetCode总进度&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;题目还是要继续做，但应该要降低一下频率了，大概每周一题吧。只是在做题之外把中心放到别的地方，比如分布式、Go、Docker、网络等等。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood2.karottc.com,2018-07-04:/posts/2018-07-04-code-life/</id>
     <title type="html">关于编程职业生涯的焦虑</title>
