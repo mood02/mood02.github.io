@@ -2,13 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood2.karottc.com/</id>
   <title>杂思未济</title>
-  <updated>2018-07-14T11:10:17Z</updated>
+  <updated>2018-07-28T11:10:17Z</updated>
   <link rel="alternate" href="http://mood2.karottc.com/"/>
   <link rel="self" href="http://mood2.karottc.com/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood2.karottc.com</uri>
   </author>
+  <entry>
+    <id>tag:mood2.karottc.com,2018-07-28:/posts/2018-07-28-ready-back-to-chengdu/</id>
+    <title type="html">准备回成都了</title>
+    <published>2018-07-28T07:10:17Z</published>
+    <updated>2018-07-28T11:10:17Z</updated>
+    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-07-28-ready-back-to-chengdu/"/>
+    <content type="html">&lt;p&gt;准备回成都了。&lt;/p&gt;
+&lt;p&gt;时也，命也，来深圳工作5年了（算上第一次踏上深圳，快6年了），刚好这个时间点准备回去了，也许这就是历史的进程。&lt;/p&gt;
+&lt;p&gt;想回去的想法，两年前就有了，只是当时不强烈了，也没有太关注一些机会，后面这两年陆续和公司的成都分部的人聊了一些，但大多结果不好。大概一个月前，某次和老大聊天之后，就去外面网站更新了一下个人简历，然后开始找成都的工作了。&lt;/p&gt;
+&lt;p&gt;所以，现在决定回去了。&lt;/p&gt;
+&lt;p&gt;有些思考在里面：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这5年的大公司经历/经验，够了（可能自己不是很适合大公司）；&lt;/li&gt;
+&lt;li&gt;这个创业公司做教育的，我又兴趣，也认可；&lt;/li&gt;
+&lt;li&gt;如果以后要创业的话，这个路径应该更大的提高成功率：
+&lt;ol type="1"&gt;
+&lt;li&gt;先加入大公司，学习优点、模式、方式；&lt;/li&gt;
+&lt;li&gt;再加入小一点比较成功的创业公司，学习创业公司的模式，同时把大公司的东西用于这里相互印证提高；&lt;/li&gt;
+&lt;li&gt;选一个真正的创业公司，加入；&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;深圳市一个好城市，可惜，我在这里找不到归属感，就走了吧。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201807_05_2012-sz.jpg" alt="2012年刚来深圳拍摄" /&gt;&lt;figcaption&gt;2012年刚来深圳拍摄&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood2.karottc.com,2018-07-14:/posts/2018-07-14-leetcode/</id>
     <title type="html">完成LeetCode第二阶段练习</title>
