@@ -2,13 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood2.karottc.com/</id>
   <title>杂思未济</title>
-  <updated>2018-07-28T11:10:17Z</updated>
+  <updated>2018-08-15T11:10:17Z</updated>
   <link rel="alternate" href="http://mood2.karottc.com/"/>
   <link rel="self" href="http://mood2.karottc.com/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood2.karottc.com</uri>
   </author>
+  <entry>
+    <id>tag:mood2.karottc.com,2018-08-15:/posts/2018-08-15-resignation-process/</id>
+    <title type="html">离职交接的这个月</title>
+    <published>2018-08-15T07:10:17Z</published>
+    <updated>2018-08-15T11:10:17Z</updated>
+    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-08-15-resignation-process/"/>
+    <content type="html">&lt;h2 id="序"&gt;序&lt;/h2&gt;
+&lt;p&gt;上个月最后最后一两天（2018.07.30）跟直属leader聊了一下，说想回成都了。并没有挽留，连传说中对离职员工客气的挽留也没有，只是反复确认了好多次，问我是否真的是回成都，还是去外面别的公司。没有挽留，也许是我回成都这个理由无法反驳，也许是觉得走了更好吧。&lt;/p&gt;
+&lt;p&gt;第二天（2018.07.31）开始安排离职交接，以及直属leader的leader（总监）和我简单沟通了一下，随便聊了聊成都现在的形式，嘱咐我做好工作交接，此外，并无多余的内容。&lt;/p&gt;
+&lt;p&gt;在这两次聊完之后，我在内部系统发起了线上离职流程，确定的 &lt;strong&gt;last work day&lt;/strong&gt; 是这个月24号周五（2018.08.24）。利用一下午的时间迅速完成了交接文档，因为交接文档的提纲，我已经早就开始写了，现在只是补充上具体每个部分的内容。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201808_01_resign-doc" alt="交接文档提纲" /&gt;&lt;figcaption&gt;交接文档提纲&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="聚餐"&gt;聚餐&lt;/h2&gt;
+&lt;p&gt;凡有大事发生，聚餐是永恒的话题。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood2.karottc.com,2018-07-28:/posts/2018-07-28-ready-back-to-chengdu/</id>
     <title type="html">准备回成都了</title>
@@ -383,34 +400,6 @@ Output: [&lt;span class="dv"&gt;1&lt;/span&gt;,&lt;span class="dv"&gt;3&lt;/span
 &lt;img src="/static/images/2018/201806_03_run.png" alt="跑步" /&gt;&lt;figcaption&gt;跑步&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;现在依然每次跑步左腹都会痛，应该是呼吸没有调整好的原因，但是试了很多方法，也没有效果，可能没找到正确方法。不过，我在跑步机上跑步就不会痛。这个日常锻炼也会坚持下去，希望能够恢复到2015年的运动效果和状态。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:mood2.karottc.com,2018-06-18:/posts/2018-06-18-leetcode/</id>
-    <title type="html">刻意练习——LeetCode刷题</title>
-    <published>2018-06-18T09:26:17Z</published>
-    <updated>2018-06-18T12:26:17Z</updated>
-    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-06-18-leetcode/"/>
-    <content type="html">&lt;p&gt;今天做完了&lt;a href="https://leetcode-cn.com/"&gt;LeetCode中国&lt;/a&gt;上面的初级算法的所有题目，从我开始做到现在，估计有2个月了吧，断断续续做完了初级的题目，虽然只是初级的题目，但是我能明显感觉我的算法能力得到了提升，可能这种感觉是由于这段时间做题，一直是比较热的状态的一种误差的感觉。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_01_leetcode.png" alt="LeetCode阶段练习" /&gt;&lt;figcaption&gt;LeetCode阶段练习&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;做完了初级算法，接下来准备做中级算法题目，今天尝试做了一题，明显感觉比初级的难度要上一个层次，有了前面初级算法的基础，还是可以接受这种难度。刷题，不仅可以对找工作有帮助，可以可以保持头脑灵活，不知道这种感觉是不是我的错觉。&lt;/p&gt;
-&lt;p&gt;这次刷题的契机是我4月初进行了一场面试，面试官只问了我三个算法题，我一个都没答好，然后面试官基本无话可说，我当时也是深受打击，决定开始刷题，当时三道算法的题目是：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ol type="1"&gt;
-&lt;li&gt;&lt;p&gt;一个无序数组，找出里面的中位数。（中位数：有序数组中间那个数）&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;一个2G文件，里面全是无序int型数字，只有500M内存，找出里面的中位数。&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;一个单链表，逆序输出每个节点的值。（比翻转单链表更难一点，不能改变链表结构）&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;刷题之后我觉得，不仅是面试有用，平时思维也是有些帮助的，所以我决定把它作为一项长期、持续的事来做。LeetCode的卷首语也讲的很好，分享到这里：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;编程能力就像任何其他技能一样，也是一个可以通过刻意练习大大提高的。&lt;/p&gt;
-&lt;p&gt;大多数经典面试题目都有多种解决方案。为了达到最佳的练习效果，我们强烈建议您至少将此清单里的题目练习两遍，如果可以的话，三遍会更好。&lt;/p&gt;
-&lt;p&gt;在第二遍练习时，你可能会发现一些新的技巧或新的方法。到第三遍的时候，你会发现你的代码要比第一次提交时更加简洁。如果你达到了这样的效果，那么恭喜你，你已经掌握了正确的练习方法！&lt;/p&gt;
-&lt;p&gt;记住：刻意练习并不意味着寻找答案并记住它，这种练习方法不是长久之计。在没有参考答案情况下，越能自主解决问题，才越能提高自身能力。&lt;/p&gt;
-&lt;/blockquote&gt;
 </content>
   </entry>
 </feed>
