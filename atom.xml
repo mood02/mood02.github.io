@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood2.karottc.com/</id>
   <title>杂思未济</title>
-  <updated>2018-09-16T11:10:17Z</updated>
+  <updated>2018-10-28T14:13:26Z</updated>
   <link rel="alternate" href="http://mood2.karottc.com/"/>
   <link rel="self" href="http://mood2.karottc.com/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood2.karottc.com</uri>
   </author>
+  <entry>
+    <id>tag:mood2.karottc.com,2018-10-28:/posts/2018-10-28-driver-license/</id>
+    <title type="html">驾照到手，天下我有</title>
+    <published>2018-10-28T00:40:17Z</published>
+    <updated>2018-10-28T14:13:26Z</updated>
+    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-10-28-driver-license/"/>
+    <content type="html">&lt;h2 id="序"&gt;序&lt;/h2&gt;
+&lt;p&gt;由于在学校的失误——没有考驾照，所有毕业后几年一直想找时间学了，但是深圳学驾照至少一年才能拿到，而且又贵，所以一直犹豫不决。前面两年一直在考虑要回成都的事，担心学到一半又走了，也是麻烦，所以索性一直没去报名。&lt;/p&gt;
+&lt;p&gt;因此，回成都之后第一件首要的事便是考驾照。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201810_01_driver_area.jpg" alt="长征考场" /&gt;&lt;figcaption&gt;长征考场&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="过程"&gt;过程&lt;/h2&gt;
+&lt;h2 id="尾"&gt;尾&lt;/h2&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood2.karottc.com,2018-08-15:/posts/2018-08-15-resignation-process/</id>
     <title type="html">离职交接的这个月</title>
@@ -422,36 +438,6 @@ Output: [&lt;span class="dv"&gt;1&lt;/span&gt;,&lt;span class="dv"&gt;3&lt;/span
 &lt;/figure&gt;
 &lt;h3 id="尾"&gt;尾&lt;/h3&gt;
 &lt;p&gt;最后说一句，真是个操蛋的地方，普通的信息自由已经如此的艰难了。&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:mood2.karottc.com,2018-06-18:/posts/2018-06-18-dragon-boat-festival/</id>
-    <title type="html">端午节</title>
-    <published>2018-06-18T13:28:17Z</published>
-    <updated>2018-06-18T13:29:17Z</updated>
-    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-06-18-dragon-boat-festival/"/>
-    <content type="html">&lt;p&gt;今年端午节三天假期，哪里都没有去，回想着半年，不仅端午节没有出去玩，任何节日都没有出去玩，任何非节日还是没有出去玩，一直窝在家里，想来有点对不住媳妇，有点愧疚。&lt;/p&gt;
-&lt;p&gt;在家三天，每天都在家做饭，最后一天假期的晚上的去体育馆跑步了🏃，这三天大概做了几件事：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;写完了一篇很长的毕业这几年的回忆录；&lt;/li&gt;
-&lt;li&gt;把LeetCode的初级算法的练习题刷完了；&lt;/li&gt;
-&lt;li&gt;去定了一套西装；&lt;/li&gt;
-&lt;li&gt;看了一些剧：
-&lt;ul&gt;
-&lt;li&gt;【创造101】，这个每周一期；&lt;/li&gt;
-&lt;li&gt;【东方华尔街】，最后一集；&lt;/li&gt;
-&lt;li&gt;【远大前程】，随便看了几集；&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_02_festival.jpg" alt="端午节" /&gt;&lt;figcaption&gt;端午节&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;h3 id="跑步"&gt;跑步&lt;/h3&gt;
-&lt;p&gt;这半年断断续续也跑了好几次了，但是跑步还是差的不行，三公里差不多花了30分钟。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_03_run.png" alt="跑步" /&gt;&lt;figcaption&gt;跑步&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;现在依然每次跑步左腹都会痛，应该是呼吸没有调整好的原因，但是试了很多方法，也没有效果，可能没找到正确方法。不过，我在跑步机上跑步就不会痛。这个日常锻炼也会坚持下去，希望能够恢复到2015年的运动效果和状态。&lt;/p&gt;
 </content>
   </entry>
 </feed>
