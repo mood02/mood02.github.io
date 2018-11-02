@@ -2,13 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood2.karottc.com/</id>
   <title>杂思未济</title>
-  <updated>2018-10-28T22:36:36Z</updated>
+  <updated>2018-11-02T21:51:39Z</updated>
   <link rel="alternate" href="http://mood2.karottc.com/"/>
   <link rel="self" href="http://mood2.karottc.com/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood2.karottc.com</uri>
   </author>
+  <entry>
+    <id>tag:mood2.karottc.com,2018-11-02:/posts/2018-11-02-new-work-two-month/</id>
+    <title type="html">入职两月，未刷题了</title>
+    <published>2018-11-02T17:54:07Z</published>
+    <updated>2018-11-02T21:51:39Z</updated>
+    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-11-02-new-work-two-month/"/>
+    <content type="html">&lt;p&gt;转眼已经回来两个月了，到新公司也已经两个月了。这两个月一直在学习以前从未接触过的技术—— &lt;strong&gt;React-Native&lt;/strong&gt;。边看资料边学习，也写了不少代码了，验证各种功能和组件。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201811_01_code.png" alt="提交记录" /&gt;&lt;figcaption&gt;提交记录&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;这两个月一道LeetCode的题都没做，感觉有点有点堕落了。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2018/201811_02_leetcode.png" alt="LeetCode记录" /&gt;&lt;figcaption&gt;LeetCode记录&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;上面这个是LeetCode的记录，要给自己找个借口的话，没做LeetCode就两个原因：一是工作，学别的东西，就不想做题了；二是在学驾照，业余时间都弄驾照相关的了。&lt;/p&gt;
+&lt;p&gt;所以在拿到驾照之后马上就做了一道题，后面恢复每周刷几道题的频率。还是应该保持学习的状态。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood2.karottc.com,2018-10-28:/posts/2018-10-28-driver-license/</id>
     <title type="html">驾照到手，天下我有</title>
@@ -428,39 +446,6 @@ Output: [&lt;span class="dv"&gt;1&lt;/span&gt;,&lt;span class="dv"&gt;3&lt;/span
 &lt;p&gt;是我在不停的优化算法，将速度提升了100倍（在没有去网上google的情况下，完全自己想的），所以当时印象还相当深的，然而，现在却一丁点儿也想不起来，气的都想把脑袋给敲碎了。面对这样的事实，哪里还有信心啊，刷题的效果完全没有体现出来，就不说能够完全记住了，就是做过之后的印象和思路都不记得了。&lt;/p&gt;
 &lt;p&gt;可能，这种做题也和当时的状态很有关系吧。&lt;/p&gt;
 &lt;p&gt;反正都这么笨了，还能怎么办呢，那就时常review，多思考吧。😌&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:mood2.karottc.com,2018-06-20:/posts/2018-06-20-fuck-gfw/</id>
-    <title type="html">操蛋的GFW</title>
-    <published>2018-06-20T13:50:17Z</published>
-    <updated>2018-06-20T14:00:17Z</updated>
-    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-06-20-fuck-gfw/"/>
-    <content type="html">&lt;h3 id="序"&gt;序&lt;/h3&gt;
-&lt;p&gt;今天在公司上课，17：30左右打开网页变慢了，甚至根本打不开，公司Wifi，手机联通4G都试过了，还是不行，刚开始以为是我的DNS挂了，后面才发现是ss的问题，因为公司的Wifi是默认翻墙的，但是我的手机是一天24小时连着VPN的，基本所有流量都会走shadowsocks这App。当时在上课，也没太注意这事。&lt;/p&gt;
-&lt;p&gt;晚上上课刷到一个消息，说是今天下午开始了新一轮的封锁：&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_04_gfw.png" alt="新一轮封锁" /&gt;&lt;figcaption&gt;新一轮封锁&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;h3 id="证实"&gt;证实&lt;/h3&gt;
-&lt;p&gt;后面下班回到家，发现确实不能上网了，check了一下服务器的各种信息，本地也能ping通，所以可以确定两点：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;IP是没有问题（没有被封）；&lt;/li&gt;
-&lt;li&gt;网络也没有问题；&lt;/li&gt;
-&lt;li&gt;机器防火墙应该也没有问题（因为我没有改过，但是机器防火墙的管理页面，要翻墙才能看的，所以现在没法去check）；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;后面登录到机器上去检查各项配置和Log，发现下面的信息：&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_05_gfw.png" alt="错误Log" /&gt;&lt;figcaption&gt;错误Log&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;猜测是防火墙在包里面加了东西导致服务器解密失败，后面验证了一下，连接之后大量的包根本没有到服务器，然后验证了一下其他地区的ss机器，发现这个到不了应该是端口被封了，我现在用的是 &lt;strong&gt;80&lt;/strong&gt; 端口，所以我马上换了一个端口，再试，恢复了。目前的情况是和前面的消息能对应上的，下午开始防火墙随机丢包和端口阻断。&lt;/p&gt;
-&lt;h3 id="应对"&gt;应对&lt;/h3&gt;
-&lt;p&gt;最简单的方式，就是保证随时不止一个翻墙的方式可用。我们做技术的都知道怎么来保证高可用性：&lt;strong&gt;异地多活，多地多中心&lt;/strong&gt;。这样全部同时挂掉的概率就非常小了。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_06_gfw.png" alt="异地多活，多个中心" /&gt;&lt;figcaption&gt;异地多活，多个中心&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;h3 id="尾"&gt;尾&lt;/h3&gt;
-&lt;p&gt;最后说一句，真是个操蛋的地方，普通的信息自由已经如此的艰难了。&lt;/p&gt;
 </content>
   </entry>
 </feed>
