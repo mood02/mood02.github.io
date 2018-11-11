@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood2.karottc.com/</id>
   <title>杂思未济</title>
-  <updated>2018-11-02T21:51:39Z</updated>
+  <updated>2018-11-11T23:07:31Z</updated>
   <link rel="alternate" href="http://mood2.karottc.com/"/>
   <link rel="self" href="http://mood2.karottc.com/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood2.karottc.com</uri>
   </author>
+  <entry>
+    <id>tag:mood2.karottc.com,2018-11-11:/posts/2018-11-11-tencent-souvenir/</id>
+    <title type="html">今天，收到前东家的离职纪念品</title>
+    <published>2018-11-11T21:57:58Z</published>
+    <updated>2018-11-11T23:07:31Z</updated>
+    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-11-11-tencent-souvenir/"/>
+    <content type="html">&lt;figure&gt;
+&lt;img src="/static/images/2018/201811_03_tencent.JPG" alt="离职纪念品" /&gt;&lt;figcaption&gt;离职纪念品&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;离职两个多月了，今天收到了寄过来的离职纪念品，东西还不错，也算是留一份念想。从以前在职和现在离职的感受，前东家对员工关怀一直是做的不错的，也许相对其他互联网大公司而已，这也是降低离职率的一种方式吧。&lt;/p&gt;
+&lt;p&gt;对于我们普通大众来说，&lt;/p&gt;
+&lt;p&gt;这个东西也算是一个毕业证吧，拿到之后便再也没有瓜葛了，&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood2.karottc.com,2018-11-02:/posts/2018-11-02-new-work-two-month/</id>
     <title type="html">入职两月，未刷题了</title>
@@ -424,28 +438,6 @@ Output: [&lt;span class="dv"&gt;1&lt;/span&gt;,&lt;span class="dv"&gt;3&lt;/span
 &lt;li&gt;抖音短视频爆火（5月日活1.5亿）&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:mood2.karottc.com,2018-06-21:/posts/2018-06-22-failed-leetcode/</id>
-    <title type="html">刷题——没有信心了</title>
-    <published>2018-06-21T16:10:17Z</published>
-    <updated>2018-06-21T16:30:17Z</updated>
-    <link rel="alternate" href="http://mood2.karottc.com/posts/2018-06-22-failed-leetcode/"/>
-    <content type="html">&lt;p&gt;今天继续做题，有点丧失信心了。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://leetcode-cn.com/problems/longest-palindromic-substring/description/"&gt;LeetCode第五题&lt;/a&gt;，今天在中级算法的练习中碰到了，前几天刚说&lt;a href="http://mood2.karottc.com/posts/2018-06-18-leetcode/"&gt;刷完了初级算法，要开始刷中级算法的题目了&lt;/a&gt;。做了两天，今天就被打击了，打击的原因并不是因为没有做出这道题，而是，&lt;strong&gt;一个多月之前我做出了这道题，现在却没有做出来&lt;/strong&gt;。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_07_leetcode05.png" alt="LeetCode第五题·提交记录" /&gt;&lt;figcaption&gt;LeetCode第五题·提交记录&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;看到这个提交记录之后我就回想起来了，当时是完全靠自己想出来的，因为提交了三次：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;第一次：880 ms&lt;/li&gt;
-&lt;li&gt;第二次：88 ms&lt;/li&gt;
-&lt;li&gt;第三次：8 ms&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;是我在不停的优化算法，将速度提升了100倍（在没有去网上google的情况下，完全自己想的），所以当时印象还相当深的，然而，现在却一丁点儿也想不起来，气的都想把脑袋给敲碎了。面对这样的事实，哪里还有信心啊，刷题的效果完全没有体现出来，就不说能够完全记住了，就是做过之后的印象和思路都不记得了。&lt;/p&gt;
-&lt;p&gt;可能，这种做题也和当时的状态很有关系吧。&lt;/p&gt;
-&lt;p&gt;反正都这么笨了，还能怎么办呢，那就时常review，多思考吧。😌&lt;/p&gt;
 </content>
   </entry>
 </feed>
