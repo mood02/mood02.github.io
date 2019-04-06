@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood02.github.io/</id>
   <title>杂思未济</title>
-  <updated>2019-04-04T22:16:43Z</updated>
+  <updated>2019-04-06T21:32:51Z</updated>
   <link rel="alternate" href="http://mood02.github.io/"/>
   <link rel="self" href="http://mood02.github.io/atom.xml"/>
   <author>
@@ -13,7 +13,7 @@
     <id>tag:mood02.github.io,2019-04-04:/posts/2019-04-04-pioneer/</id>
     <title type="html">关于创业</title>
     <published>2019-04-04T21:32:40Z</published>
-    <updated>2019-04-04T22:16:43Z</updated>
+    <updated>2019-04-06T21:32:51Z</updated>
     <link rel="alternate" href="http://mood02.github.io/posts/2019-04-04-pioneer/"/>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;人无远虑，必有近忧！&lt;/p&gt;
@@ -26,7 +26,24 @@
 &lt;li&gt;做事的方法&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;每个选择都是机会成本，而且自己的经验的不足，很多时候做不到准确的判断。甚至感觉创业有点像赌博，想去博一下，输赢都是未知。&lt;/p&gt;
-&lt;p&gt;如果创业失败，是否还能找个工作继续上班？&lt;/p&gt;
+&lt;p&gt;如果创业失败，可能有几种出路吧。&lt;/p&gt;
+&lt;h3 id="继续创业"&gt;继续创业&lt;/h3&gt;
+&lt;p&gt;哪里跌倒，就哪里爬起来。失败就继续创业，至少现在还有个很流行的说法，叫做连续创业者。总结失败的经验，下次继续。&lt;/p&gt;
+&lt;p&gt;当然，我觉得这种得需要考虑，自己的经济水平，以及自己和自己家人愿意接受创业的经济水平的下降，如果可以和家人达成共识，持续创业是一个挺好的选择。&lt;/p&gt;
+&lt;h3 id="继续上班"&gt;继续上班&lt;/h3&gt;
+&lt;p&gt;创业失败了，就会找个公司继续上班，感觉可能有以下几个原因：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;感觉自己有些经验不足，需要再去优秀的公司学习，以待时机；&lt;/li&gt;
+&lt;li&gt;迫于经济压力，必须要先有一分稳定的工作；&lt;/li&gt;
+&lt;li&gt;各种原因导致的身心俱疲，所以想想休息一下。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;由于创业是各个方面都需要做的，所以广度有了，深度就不会不够，如果去大厂，深度是必须项，广度是加分项，所以真的创业失败再去找工作，我感觉是比较吃亏的旋转。&lt;/p&gt;
+&lt;h3 id="独立开发者"&gt;独立开发者&lt;/h3&gt;
+&lt;p&gt;这也是一个方向，对于创业者，真的就是&lt;strong&gt;全干工程师&lt;/strong&gt;，所以既然已经什么都会了，那么很自然就可以做独立开发者（自由职业者），这也是我目前最希望的状态，从各种渠道了解到，后端然后学习app开发，做一个独立开发者在更有优势一些，因为前端开发相比后端，比较学习深度还是要容易一些，今天在推上看到一个消息又再次证明了这一点。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="/static/images/2019/201904_01_fullstatck.jpg" alt="后端做独立开发者" /&gt;&lt;figcaption&gt;后端做独立开发者&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;我如今也算是迷茫的朝着这个方向努力着。&lt;/p&gt;
 </content>
   </entry>
   <entry>
