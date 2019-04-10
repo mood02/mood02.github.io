@@ -2,13 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood02.github.io/</id>
   <title>杂思未济</title>
-  <updated>2019-04-06T21:32:51Z</updated>
+  <updated>2019-04-10T08:18:30Z</updated>
   <link rel="alternate" href="http://mood02.github.io/"/>
   <link rel="self" href="http://mood02.github.io/atom.xml"/>
   <author>
     <name>karottc</name>
     <uri>http://mood02.github.io</uri>
   </author>
+  <entry>
+    <id>tag:mood02.github.io,2019-04-07:/posts/2019-04-07-ching-ming-festival/</id>
+    <title type="html">这个清明节</title>
+    <published>2019-04-07T21:52:36Z</published>
+    <updated>2019-04-10T08:18:30Z</updated>
+    <link rel="alternate" href="http://mood02.github.io/posts/2019-04-07-ching-ming-festival/"/>
+    <content type="html">&lt;h3 id="计划失败"&gt;计划失败&lt;/h3&gt;
+&lt;p&gt;这个清明节本来计划把&lt;a href="https://book.douban.com/subject/30209224/"&gt;「人工智能基础（高中版）」&lt;/a&gt;看完，然而总是事与愿违，到目前为止，看了一半不到。&lt;/p&gt;
+&lt;p&gt;如果没有中间打岔，肯定还是可以做完的。&lt;/p&gt;
+&lt;p&gt;第一天晚上临时说起，然后就回老家了，第三天再回来，这样一来，两天就没有了。&lt;/p&gt;
+&lt;h3 id="说走就走"&gt;说走就走&lt;/h3&gt;
+&lt;p&gt;有车的好处，就是随时可以出发去想去的地方，不用担心交通问题；坏处就是养个车挺花钱的，而且很多时间坐公共交通工具其实更方便。车子的花钱的地方：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;买车的钱&lt;/li&gt;
+&lt;li&gt;家&amp;amp;公司的停车位&lt;/li&gt;
+&lt;li&gt;加油，根据我现在的情况，平均0.7元一公里&lt;/li&gt;
+&lt;li&gt;每5000km的保养&lt;/li&gt;
+&lt;li&gt;洗车&lt;/li&gt;
+&lt;li&gt;保险&lt;/li&gt;
+&lt;li&gt;临时出门的停车费&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不过，这次晚上12点还在高速上开车，让我有点当年看的动画片「头文字D」的感觉了：就是超车时，两车并排时，打开远光灯，前方道路眼前一亮，然后一脚油门，绝尘而去。&lt;/p&gt;
+&lt;h3 id="喝酒"&gt;喝酒&lt;/h3&gt;
+&lt;p&gt;在老家大概喝了一杯半的压酒，一杯大概2两，然后晚上睡觉就有点头疼，半夜还起来喝水解酒，一直都头疼，知道早上起床，稍微恢复了一点点。我也在想是什么原因导致的头疼，难道我现在已经到了喝不了三两酒了吗。&lt;/p&gt;
+&lt;p&gt;不过，以前不喝酒似乎没啥损失，因为这之前半年不喝酒，没感觉有啥不妥的地方。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:mood02.github.io,2019-04-04:/posts/2019-04-04-pioneer/</id>
     <title type="html">关于创业</title>
@@ -268,32 +295,6 @@
 &lt;h2 id="尾"&gt;尾&lt;/h2&gt;
 &lt;p&gt;今天电话面试了一个公司——【比特大陆】，全程聊项目，没有问任何基础和算法相关的知识，面的结果不怎么好，由于最近都是在看算法和复习基础知识，这部分疏忽了，这也说明，就算是自己亲手做过的项目，如果不提前准备，临场也会是一脸懵逼。&lt;/p&gt;
 &lt;p&gt;Go on ~&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:mood02.github.io,2018-06-24:/posts/2018-06-24-zoho-notebook/</id>
-    <title type="html">Evernote替代品——ZOHO Notebook</title>
-    <published>2018-06-24T02:10:17Z</published>
-    <updated>2018-06-24T02:30:17Z</updated>
-    <link rel="alternate" href="http://mood02.github.io/posts/2018-06-24-zoho-notebook/"/>
-    <content type="html">&lt;p&gt;今天在群里听人推荐了一个Evernote的替代品，叫 &lt;a href="https://notebook.zoho.com/app/index.html#/notebooks"&gt;ZOHO Notebook&lt;/a&gt;。由于苦Evernote久已，所以马上就去注册试用了一下，顺便了解了一下 ZOHO 这个公司，发现这是一个底蕴深厚的大公司，值得信赖。&lt;/p&gt;
-&lt;p&gt;这个软件是在2016年Evernote 提升收费标准的时候，上线了第一版，宣传语就是要替代Evernote。所以网站直接提供了一个很方便的从evernote自动迁移数据到ZOHO的能力：&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_08_notebook.png" alt="迁移Evernote数据" /&gt;&lt;figcaption&gt;迁移Evernote数据&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;我差不多5个G数据，迁移了10个小时左右，迁移完成之后会发邮件通知。&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src="/static/images/2018/201806_09_notebook.png" alt="迁移完成" /&gt;&lt;figcaption&gt;迁移完成&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;笔记全部变成了彩色了，一眼看上去还行，但是点进去看具体的页面，就感觉挺丑的，五颜六色的看上去也有一种不正式的感觉，并不是很适合做知识管理。&lt;/p&gt;
-&lt;p&gt;发展了两年的ZOHO Notebook 还有几点不足：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;搜索还需要优化，比较少的时候搜索很精准，但是我把全部笔记导入进去之后，就搜索不准确了，想要的搜不出来；&lt;/li&gt;
-&lt;li&gt;到现在为止也没有windows客户端；&lt;/li&gt;
-&lt;li&gt;多级嵌套，Evernote里面这个功能叫笔记本组，只能两级，但是ZOHO Notebook，只能一级，还差的老远，最好的是想的能够任意层级；&lt;/li&gt;
-&lt;li&gt;网页剪切、收藏还需要普及。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前看和Evernote还是不能比，所以这次又是一次失败的尝试。&lt;/p&gt;
 </content>
   </entry>
 </feed>
