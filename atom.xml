@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://mood02.github.io/</id>
   <title>杂思未济</title>
-  <updated>2019-04-19T22:21:13Z</updated>
+  <updated>2019-04-19T22:55:37Z</updated>
   <link rel="alternate" href="http://mood02.github.io/"/>
   <link rel="self" href="http://mood02.github.io/atom.xml"/>
   <author>
@@ -11,9 +11,9 @@
   </author>
   <entry>
     <id>tag:mood02.github.io,2019-04-10:/posts/2019-04-10-tianfutong-app/</id>
-    <title type="html">这个清明节</title>
+    <title type="html">略坑的天府通App</title>
     <published>2019-04-10T22:45:26Z</published>
-    <updated>2019-04-19T22:21:13Z</updated>
+    <updated>2019-04-19T22:55:37Z</updated>
     <link rel="alternate" href="http://mood02.github.io/posts/2019-04-10-tianfutong-app/"/>
     <content type="html">&lt;p&gt;天府通app最近两天，连续两天出现故障，无法扫码乘车（公交 &amp;amp; 地铁）。&lt;/p&gt;
 &lt;figure&gt;
